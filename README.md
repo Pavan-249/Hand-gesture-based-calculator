@@ -8,4 +8,4 @@ It understands our hand gestures which lets us create mathematical expressions j
 
 https://user-images.githubusercontent.com/63118506/130801467-70adf914-b0eb-42d0-b75b-ca5c3a287c72.mp4
 
-In collaboration with Hariharan Ramesh, Pavankumar Suresh
+Contributors: Hariharan Ramesh, Pavankumar Suresh
